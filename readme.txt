@@ -1,5 +1,5 @@
 === read-more-for-feed-burner-feed ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: Vinay PN
 Donate link: http://www.vinaypn.com/
 Tags: Read More Feed Burner, Feed Burner
 Requires at least: 3.0.1
